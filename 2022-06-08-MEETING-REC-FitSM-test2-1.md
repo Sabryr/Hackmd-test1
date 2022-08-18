@@ -16,4 +16,4 @@ Round table:
 
 ## Meeting minutes: (ToDo)
 
-Welcome session
+Welcome session. What happend during meeting 
